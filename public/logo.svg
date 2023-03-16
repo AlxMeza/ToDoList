@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.26623"
+   height="34.979092"
+   viewBox="0 0 115.26623 34.979092"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.7606437,-37.210995)">
+    <text
+       xml:space="preserve"
+       style="font-size:35.2577px;font-family:Orbitron;-inkscape-font-specification:Orbitron;letter-spacing:1.0661px;fill:#bd93f9;fill-opacity:1;stroke-width:0;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="2.7394266"
+       y="59.002708"
+       id="text238"
+       transform="scale(0.84467471,1.1838877)"><tspan
+         sodipodi:role="line"
+         id="tspan236"
+         x="2.7394266"
+         y="59.002708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';fill:#bd93f9;fill-opacity:1;stroke-width:0;stroke-dasharray:none">&lt;<tspan
+   style="fill:#50fa7b;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+   id="tspan2506">Lex</tspan> /&gt;</tspan></text>
+  </g>
+</svg>
